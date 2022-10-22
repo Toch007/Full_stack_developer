@@ -1,0 +1,5 @@
+A Full stack deveoper is a person who handles both the front and back end of web development. In other words, such a person develops both the client and server software.
+The tools used by the full stack developer can be divided into:
+1. Frontend tools - HTML, CSS, JavaScript, JQuery, Angular, etc
+
+2. Backend tools - PHP, ASP, Python, Node, etc
